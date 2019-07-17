@@ -9,6 +9,8 @@ Official Microsoft SQL Server adapter for [sails.js](http://sailsjs.org/). Teste
 but should support any SQL Server 2005 and newer. CI tests are run against SQL
 Server Express. Published by [c*nect](http://www.cnectdata.com/).
 
+Note: I'm update from npm sails-sqlserver
+
 ### 1. Install
 ```sh
 $ npm install sails-sqlserver --save
