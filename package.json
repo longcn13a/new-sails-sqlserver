@@ -1,5 +1,5 @@
 {
-  "name": "new-sails-sqlserver",
+  "name": "news-sails-sqlserver",
   "version": "1.0.0",
   "description": "Official SQL Server Adapter for Sails / Waterline",
   "main": "lib/adapter.js",
