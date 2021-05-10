@@ -37,7 +37,7 @@
   "license": "MIT",
   "dependencies": {
     "captains-log": "^0.11.13-0",
-    "lodash": "^3.8.0",
+    "lodash": "^4.17.21",
     "mssql": "^2.5.0",
     "underscore.string": "^3.0.3",
     "waterline-cursor": "0.0.7"
